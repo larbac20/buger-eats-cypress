@@ -1,0 +1,16 @@
+// describe ('login' , ()=>{
+//     it('usuario deve se logar', ()=>{
+//         cy.viewport(1440,900)
+//         cy.visit('http://webapp-lifesupport-dev.azurewebsites.net/')
+
+//         var user = {
+//             usuario: 'jayme.cabral',
+//             senha: '123456'
+//     }
+//     cy.get('input[name="login"]').type(user.usuario)
+//     cy.get('input[name="senha"]').type(user.senha)
+    
+//     cy.get('input[type="submit"]').click()
+// })
+
+// })
